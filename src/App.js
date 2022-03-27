@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
-import { Link } from 'react-router-dom';
 //API da43de3f
 const API_URL = 'https://www.omdbapi.com/?apikey=da43de3f';
 

@@ -53,7 +53,7 @@ const App = () => {
             <br />
 
             <div style={{ color: 'white', textAlign: 'center', fontFamily: 'sans-serif' }}>
-                <p>Developed by Muhammad Shahzad <a style={{ color: 'white', textAlign: 'center', fontFamily: 'sans-serif' }} href='mailto:shazee257@gmail.com'>@shazee257@gmail.com</a></p>
+                <p>Developed by Muhammad Shahzad @2022 <a style={{ color: 'white', textAlign: 'center', fontFamily: 'sans-serif' }} href='mailto:shazee257@gmail.com'>@shazee257@gmail.com</a></p>
             </div>
 
         </div>
